@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Hi there 👋
+
+[![Twitter Badge](https://img.shields.io/badge/-@daniel0liveir4-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/daniel0liveir4)](https://twitter.com/daniel0liveir4)
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel0liver/)](https://www.linkedin.com/in/daniel0liver/)
+
 <!--
 **Daniel0liver/daniel0liver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
