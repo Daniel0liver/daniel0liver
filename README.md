@@ -1,4 +1,4 @@
-## Hi there I'm Daniel Oliveira 👋
+## Hi there I'm Daniel Oliveira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### I'm a Front-end Developer based in Brazil
 
 - 🏢 I'm currently working at **[Mobills](https://web.mobills.com.br/).**
