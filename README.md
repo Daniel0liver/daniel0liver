@@ -1,19 +1,11 @@
-### Hi there 👋
+## Hi there I'm Daniel Oliveira 👋
+### I'm a Front-end Developer based in Brazil
 
-[![Twitter Badge](https://img.shields.io/badge/-@daniel0liveir4-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/daniel0liveir4)](https://twitter.com/daniel0liveir4)
-[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel0liver/)](https://www.linkedin.com/in/daniel0liver/)
+- 🏢 I'm currently working at **[Mobills](https://web.mobills.com.br/).**
+- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`
 
-<!--
-**Daniel0liver/daniel0liver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/daniel0liveir4/)
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel0liver/)
+[![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/daniel0liveir4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
