@@ -35,5 +35,5 @@
 
 ### I'm a Front-end Developer based in Fortaleza - CE, Brazil.
 
-- 🏢  I'm currently working at **[Mobills](https://web.mobills.com.br/).**
+- 🏢  I'm currently working at **[Mobills](https://www.mobills.com.br/).**
 - ⚙️  I use daily: `.ts`, `.js`, `.html` and `.css`
