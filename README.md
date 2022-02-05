@@ -1,4 +1,4 @@
-## Hey, How's it going?! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey, what's up? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="left">
   <a href="https://twitter.com/daniel0liveir4">
@@ -36,4 +36,5 @@
 ### I'm a Front-end Developer based in Fortaleza - CE, Brazil.
 
 - 🏢  I'm currently working at **[Mercado Livre](https://www.mercadolivre.com.br/).**
-- ⚙️  I use daily: `.ts`, `.js`, `.html` and `.css`
+- 🛠  I use daily: `.ts`, `.js`, `.html` and `.css`
+- 🎯  My goal is to contribute to open source projects.
