@@ -35,6 +35,6 @@
 
 ### I'm a Front-end Developer based in Fortaleza - CE, Brazil.
 
-- 🏢  I'm currently working at **[Mercado Libre](https://github.com/mercadolibre).**
+- 🏢  I'm currently working at **undefined**
 - 🛠  I use daily: `.ts`, `.js`, `.html`, `.css` and in my spare time `.go`
-- 🎯  My goal is to contribute to open source projects.
+<!-- - 🎯  My goal is to contribute to open source projects. -->
