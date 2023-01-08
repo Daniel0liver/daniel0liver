@@ -13,6 +13,27 @@
       alt="Twitter"
     />
   </a>
+  
+  <a href="https://exercism.org/profiles/Daniel0liver">
+    <img
+      src="https://img.shields.io/badge/Exercism-black?style=for-the-badge&logo=exercism"
+      alt="Exercism"
+    />
+  </a>
+  
+  <a href="https://leetcode.com/Daniel0liver/">
+    <img
+      src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode"
+      alt="Leetcode"
+    />
+  </a>
+  
+  <a href="https://www.hackerrank.com/danieloliver_dev">
+    <img
+      src="https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=hackerrank"
+      alt="Hackerrank"
+    />
+  </a>
 
   <a href="https://app.daily.dev/daniel0liver">
     <img 
@@ -26,7 +47,8 @@
 
 <br />
 
-### I'm a Front-end Developer based in Fortaleza - CE, Brazil.
+### I'm a Software Engineer based in Fortaleza - CE, Brazil.
 
-- 🏢  I'm currently working at **Ifood**
-- 🛠  I use daily: `.ts`, `.js`, `.html`, `.css` and `scss`
+- 🏢  I'm currently working on promotions team at **iFood**
+- 🛠  I use daily: `.ts`, `.js`, `.html`, `.css`, `.scss`
+- 📚  I'm currently learning `.go`, `.sql` and `.cpp`
