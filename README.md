@@ -50,5 +50,5 @@
 ### I'm a Software Engineer based in Fortaleza - CE, Brazil.
 
 - 🏢  I'm currently working on promotions team at **iFood**
-- 🛠  I use daily: `.ts`, `.js`, `.html`, `.css`, `.scss`
+- 🛠  I use daily: `.ts`, `.js`, `.html`, `.css` and `.scss`
 - 📚  I'm currently learning `.go`, `.sql` and `.cpp`
