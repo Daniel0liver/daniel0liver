@@ -51,4 +51,4 @@
 
 - 🏢  I'm currently working on promotions team at **iFood**
 - 🛠  I use daily: `.ts`, `.js`, `.html`, `.css` and `.scss`
-- 📚  I'm currently learning `.go`, `.sql` and `.cpp`
+- 📚  I'm currently learning `.go` and `.sql``
