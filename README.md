@@ -7,12 +7,15 @@
       alt="LinkedIn"
     />
   </a>
+  
+  <!-- 
   <a href="https://twitter.com/daniel0liveir4">
     <img
       src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"
       alt="Twitter"
     />
-  </a>
+  </a> 
+  -->
   
   <a href="https://exercism.org/profiles/Daniel0liver">
     <img
