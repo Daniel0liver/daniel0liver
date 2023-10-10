@@ -8,14 +8,12 @@
     />
   </a>
   
-  <!-- 
   <a href="https://twitter.com/daniel0liveir4">
     <img
       src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"
       alt="Twitter"
     />
   </a> 
-  -->
   
   <a href="https://exercism.org/profiles/Daniel0liver">
     <img
@@ -53,5 +51,4 @@
 ### I'm a Software Engineer based in Fortaleza - CE, Brazil.
 
 - 🏢  I'm currently working on promotions team at **iFood**
-- 🛠  I use daily: `.ts`, `.js`, `.html`, `.css` and `.scss`
-- 📚  I'm currently learning `.go` and `.sql`
+- 🛠  I use daily: `.ts`, `.html`, `.css`, `.go` and `.sql`
