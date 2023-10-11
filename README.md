@@ -21,18 +21,18 @@
       alt="Exercism"
     />
   </a>
+
+  <a href="https://www.hackerrank.com/daniel0liveir4">
+    <img
+      src="https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=hackerrank"
+      alt="Hackerrank"
+    />
+  </a>
   
   <a href="https://leetcode.com/Daniel0liver/">
     <img
       src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode"
       alt="Leetcode"
-    />
-  </a>
-  
-  <a href="https://www.hackerrank.com/danieloliver_dev">
-    <img
-      src="https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=hackerrank"
-      alt="Hackerrank"
     />
   </a>
 
