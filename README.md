@@ -1,5 +1,3 @@
-## Hey, what's up? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 <div align="left">
   <a href="https://www.linkedin.com/in/daniel0liver/">
     <img
@@ -14,6 +12,13 @@
       alt="Twitter"
     />
   </a> 
+
+  <a href="https://leetcode.com/Daniel0liver/">
+    <img
+      src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode"
+      alt="Leetcode"
+    />
+  </a>
   
   <a href="https://exercism.org/profiles/Daniel0liver">
     <img
@@ -28,13 +33,6 @@
       alt="Hackerrank"
     />
   </a>
-  
-  <a href="https://leetcode.com/Daniel0liver/">
-    <img
-      src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode"
-      alt="Leetcode"
-    />
-  </a>
 
   <a href="https://app.daily.dev/daniel0liver">
     <img 
@@ -45,10 +43,3 @@
     />
   </a>
 </div>
-
-<br />
-
-### I'm a Software Engineer based in Fortaleza - CE, Brazil.
-
-- 🏢  I'm currently working on promotions team at **iFood**
-- 🛠  I use daily: `.ts`, `.html`, `.css`, `.go` and `.sql`
