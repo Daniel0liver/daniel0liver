@@ -1,18 +1,4 @@
 <div align="left">
-  <a href="https://www.linkedin.com/in/daniel0liver/">
-    <img
-      src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin"
-      alt="LinkedIn"
-    />
-  </a>
-  
-  <a href="https://twitter.com/daniel0liveir4">
-    <img
-      src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"
-      alt="Twitter"
-    />
-  </a> 
-
   <a href="https://leetcode.com/Daniel0liver/">
     <img
       src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode"
